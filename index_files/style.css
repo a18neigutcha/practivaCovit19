@@ -10,6 +10,11 @@ html {
   background-color: #dde;
 }
 
+aside{
+  background-color: #008A00;
+  margin-right: 327px;
+}
+
 body {
   width: 80%;
   margin: 0 auto;
@@ -60,6 +65,7 @@ article, footer, .secondary {
 
 article {
   margin-right: 10px;
+  margin-bottom: 0px;
 }
 
 div[class="nav"] {
@@ -265,9 +271,12 @@ audio {
 
   article {
     margin-right: 0px;
-    margin-bottom: 10px;
+    
   }
-
+  aside{
+    margin-bottom: 10px;
+    margin-right: 327px;
+  }
 
 }
 
